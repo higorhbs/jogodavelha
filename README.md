@@ -11,7 +11,7 @@ Este aplicativo permite que dois jogadores joguem entre si em um dispositivo mó
 ## Funcionalidades
 
 - Interface simples e intuitiva.
-- Dois modos de jogo: jogador contra jogador.
+- Dois modos de jogo: jogador contra jogador e também contra Inteligência artificial :)
 - Indicação do jogador atual.
 - Anúncio do vencedor ou empate.
 - Opção de reiniciar o jogo.
