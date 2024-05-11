@@ -16,9 +16,6 @@ Este aplicativo permite que dois jogadores joguem entre si em um dispositivo mó
 - Anúncio do vencedor ou empate.
 - Opção de reiniciar o jogo.
 
-## Capturas de tela
-
-[Inserir capturas de tela aqui]
 
 ## Pré-requisitos
 
