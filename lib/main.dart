@@ -12,7 +12,10 @@ class TicTacToe extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Jogo da velha',
-      theme: ThemeData(useMaterial3: true),
+      theme: ThemeData(
+        useMaterial3: true,
+        fontFamily: 'Montserrat',
+      ),
       debugShowCheckedModeBanner: false,
       home: const HomePage(),
     );

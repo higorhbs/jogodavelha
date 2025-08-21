@@ -1,6 +1,6 @@
 name: tic_tac_toe_flutter
 description: "Tic Tac Toe in Flutter"
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: 'none'
 version: 1.0.0+1
 
 environment:
@@ -10,16 +10,27 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.6
+  confetti: ^0.7.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
 
+
 flutter:
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
   assets:
     - assets/icons/
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+          weight: 700
+        - asset: assets/fonts/Montserrat-Medium.ttf
+          weight: 600
+        - asset: assets/fonts/Montserrat-Light.ttf
+          weight: 500
 
